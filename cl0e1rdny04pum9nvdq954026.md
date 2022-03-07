@@ -1,6 +1,6 @@
 ## Web 2 and Web 3.
 
-Hey there, I haven't written here in a long time. Today, I want to write briefly on the differences between Web 2 and Web 3 since I am participating in Block games(an attempt to be a Web3 goD).
+Hey there, I haven't written here in a long time. Today, I want to write briefly on the differences between Web 2 and Web 3 since I am participating in Block games(an attempt to be a Web3 goD). The Program is powered by [Nestcoin](https://nestcoin.com/), and [Zuriteam](https://zuri.team/). You can check it out better on[Blockgames](https://blockgames.gg). 
 
 For close to 15 years now, The internet has been populated by user-generated content but on Corporate managed platforms, for example, Facebook, Twitter, etc this is an advancement of the old Web 1 where platform and content were managed by the corporate alone.
 
