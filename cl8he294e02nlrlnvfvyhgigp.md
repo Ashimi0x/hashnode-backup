@@ -4,7 +4,7 @@ In Laravel, You can easily create components for sections like Header and Footer
 
 If you enjoy clean codes or support the DRY(Don't Repeat Yourself) software principle. This is for you.
 
-In this article, I will create a Header and Footer Component File and We will reuse that file across our Website.
+In this article, I will create a Header and Footer Component File and reuse that file across our Website.
 
 ### Create Component File
 
