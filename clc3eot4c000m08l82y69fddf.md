@@ -2,7 +2,7 @@
 
 Updating your plugins and themes is necessary as the developers often roll out new versions to tackle exposed vulnerabilities and potential exploits. The WordPress in-built system notifies you whenever there is a new version of your themes or plugins.
 
-If you are confident in your website security and consider the update notifications to be a bother and decide to take them out. Follow keenly, I will work you through how to get it done.
+If you are confident in your website security and consider the update notifications to be a bother and decide to take them out or You don't want your clients calling up every time there's an update notification. Follow keenly, I will work you through how to get it done.
 
 Step 1: Access your WordPress file over SFTP, cPanel, or through Theme Editor under Appearances on your WordPress Dashboard.  
 In my case, I will go through the theme editor route, it's easier. The other ways are safer, They allow you the case to back up the file and restore it in the case of errors.
