@@ -2,9 +2,7 @@
 
 Today, You are able to search on Google using images instead of words, and Google Translate allows you to converse in multiple languages without learning a single one of them, You can easily sort your Google Photos for anything e.g “Red Dresses” “Elon Musk” and it will show all related results in your library.
 
-Kudos to the amazing engineers at Google for building these applications. At the core of what they built is a technology that is able of processing input like a human mind would and carry out specific actions like identifying which color is red, Which object is a table, and if a person is wearing a black shirt or probably smiling:
-
-## **Artificial Intelligence**.
+Kudos to the amazing engineers at Google for building these applications. At the core of what they built is a technology that is able of processing input like a human mind would and carry out specific actions like identifying which color is red, Which object is a table, and if a person is wearing a black shirt or probably smiling described as **Artificial Intelligence**.
 
 **Artificial Intelligence** can be explained as computers that are empowered to think and perform actions that are like or even better and/or fast than humans. These computers also go through a learning process that helps them develop this intelligence and they are constantly improving as well by collecting feedback, learning, and adjusting to offer better results called **Machine Learning**
 
