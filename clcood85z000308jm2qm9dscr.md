@@ -1,14 +1,18 @@
 # Crowdsource: Ashimi’s Guide To Improving Google’s AI and Gain Incentives.
 
-Today We are able to search on Google using images instead of words, Google Translate allows you to converse in multiple languages without learning a single one of them, You can easily sort your Google Photos for anything e.g “Red Dresses” “Elon Musk” and it will show all related results in your library.
+Today, You are able to search on Google using images instead of words, and Google Translate allows you to converse in multiple languages without learning a single one of them, You can easily sort your Google Photos for anything e.g “Red Dresses” “Elon Musk” and it will show all related results in your library.
 
-Kudos to the amazing engineers at Google for building these applications. At the core of what they built is a technology that is able of processing input like a human mind would and carry out specific actions like identifying which color is red, Which object is a table, and if a person is wearing a black shirt or probably smiling: - **Artificial Intelligence**.
+Kudos to the amazing engineers at Google for building these applications. At the core of what they built is a technology that is able of processing input like a human mind would and carry out specific actions like identifying which color is red, Which object is a table, and if a person is wearing a black shirt or probably smiling:
 
-**Artificial Intelligence** can be described as computers that are empowered to think and perform actions that are like or even better and/or fast than humans. These computers also go through a learning process that helps them develop this intelligence and they are constantly improving as well by collecting feedback, learning, and adjusting to offer better results: - **Machine Learning**
+## **Artificial Intelligence**.
 
-Now that you understand what machine learning or artificial intelligence means, Perhaps, it helps you paint a better picture of how your different apps work but how are Data gathered and used to train these apps?  
-  
-There are a lot of technical and non-technical ways to do that but In this article, we will focus on a non-technical approach to improving AI or more specifically Google's own AI:- **Google Crowdsource**
+**Artificial Intelligence** can be explained as computers that are empowered to think and perform actions that are like or even better and/or fast than humans. These computers also go through a learning process that helps them develop this intelligence and they are constantly improving as well by collecting feedback, learning, and adjusting to offer better results called **Machine Learning**
+
+Now that you understand what machine learning or artificial intelligence means, Perhaps, it helps you paint a better picture of how your different apps work but how are Data gathered and used to train these apps?
+
+There are a lot of technical and non-technical ways to do that but In this article, we will focus on a non-technical approach to improving AI or more specifically Google's own AI
+
+## **Google Crowdsource**
 
 Crowdsourcing involves a group of people coming together to form specific tasks for an organization. Building on that knowledge, Google created the **Google Crowdsource** platform to enable users to perform some specific tasks in exchange for incentives.
 
