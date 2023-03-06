@@ -1,8 +1,8 @@
 ---
-title: "Technology: Surreptitious Cross-cultural Adaptations Of Globalisation"
+title: "Technology: Cross-cultural Adaptations Of Globalisation"
 datePublished: Mon Mar 06 2023 14:24:24 GMT+0000 (Coordinated Universal Time)
 cuid: clewwyaon000509ml2kpt9orj
-slug: technology-surreptitious-cross-cultural-adaptations-of-globalisation
+slug: technology-cross-cultural-adaptations-of-globalisation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678112611635/2f49abe9-8a46-437c-8a59-bfb6eabe6040.png
 
 ---
