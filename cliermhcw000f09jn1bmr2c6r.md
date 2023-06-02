@@ -124,4 +124,6 @@ To test your 2FA setup, log out of your WordPress site and log back in. You shou
 
 Conclusion
 
-Enabling two-factor authentication is an essential step in securing your WordPress site.
+Enabling two-factor authentication is an essential step in securing your WordPress site. It is also important to recognize that it is one of the required security measures, It is not proven to fix vulnerabilities that might occur due to the use of nulled themes and plugins.  
+  
+If you like this guide, Leave a comment and I look forward to your questions.
