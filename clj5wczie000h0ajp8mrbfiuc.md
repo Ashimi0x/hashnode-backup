@@ -1,6 +1,6 @@
 ---
 title: "The Synergy Between Sales and Product Development: Driving Success in the Market."
-datePublished: Mon Jun 19 2023 15:56:22 GMT+0000 (Coordinated Universal Time)
+datePublished: Sun Jun 18 2023 15:56:22 GMT+0000 (Coordinated Universal Time)
 cuid: clj5wczie000h0ajp8mrbfiuc
 slug: the-synergy-between-sales-and-product-development-driving-success-in-the-market
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687362924361/a92184d3-e28e-406f-a223-bbfac795511c.png
