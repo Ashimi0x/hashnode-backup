@@ -1,6 +1,6 @@
 ---
 title: "Building Leverage for Online Food Vendors Using Software as a Service"
-datePublished: Thu Jun 22 2023 12:13:44 GMT+0000 (Coordinated Universal Time)
+datePublished: Sat Jun 24 2023 12:13:44 GMT+0000 (Coordinated Universal Time)
 cuid: clja6tb7h001a09mo9job742j
 slug: building-leverage-for-online-food-vendors-using-software-as-a-service
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687622364682/5289d5ff-623d-4046-9b68-bf0125c958cc.jpeg
