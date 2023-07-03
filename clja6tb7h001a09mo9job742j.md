@@ -122,3 +122,5 @@ As the online food industry continues to evolve, embracing Kogyo technology will
 Kogyo hopes to help vendors delight their customers, and establish them as prominent players in the online food industry in Nigeria.
 
 Sign Up for the Waitlist [here](https://kogyo.shop)
+
+#2Articles1Week, #Hashnode
